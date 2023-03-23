@@ -1,6 +1,6 @@
-<H1 align="center">Hey there, My name is Arjun Vuppala</h1>
+<h1 align="center">Hey there, My name is Arjun Vuppala</h1>
 
-<h3 align="center">A passionate CSE student primarily interested in web development and data science</h3>
+<h3 align="center mb-10">A passionate CSE student primarily interested in web development and data science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunvuppala123&label=Profile%20views&color=0e75b6&style=flat" alt="arjunvuppala123" /> </p>
 
