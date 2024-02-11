@@ -134,10 +134,3 @@
 
 <br />
 
-<h2 align="left">Statistics:</h2
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunvuppala123&show_icons=true&locale=en&layout=compact" alt="arjunvuppala123" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunvuppala123&show_icons=true&locale=en" alt="arjunvuppala123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunvuppala123&" alt="arjunvuppala123" /></p>
-
